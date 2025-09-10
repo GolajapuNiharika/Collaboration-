@@ -1,2 +1,15 @@
-# Collaboration-
-Created a repository to perform group tasks
+# HOSPITAL MANAGEMENT SYSTEM PORTAL 
+1. Online Patient Registration – Patients can create accounts, register, and update their details online.
+
+
+2. Appointment Booking & Scheduling – Easy online appointment booking with doctors, showing available time slots.
+
+
+3. Electronic Medical Records (EMR) – Secure storage of patient history, prescriptions, test reports, and treatment details.
+
+
+4. Billing & Online Payments – Automated billing system with multiple payment options (UPI, cards, insurance).
+
+
+5. Doctor & Staff Management – Doctors’ schedules, availability, and hospital staff details managed digitally.
+
